@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Süperr 💖</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #fff0f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        img {
+            width: 350px;
+            max-width: 90%;
+            margin-top: 40px;
+            border-radius: 12px;
+        }
+
+        h1 {
+            margin-top: 20px;
+            color: #ff4081;
+            font-size: 32px;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="bild.jpg" alt="Liebe">
+
+    <h1>Süperr Entscheidung 😍💘</h1>
+
+</body>
+</html>
